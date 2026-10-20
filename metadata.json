@@ -1,0 +1,6 @@
+{
+  "name": "SIMPEL-SPPD: Aplikasi Perjalanan Dinas & SPT",
+  "description": "Aplikasi Perjalanan Dinas dan Surat Perintah Tugas (SPT/SPPD) berbasis web & Google Apps Script dengan manajemen database pegawai, cetak otomatis satu klik, kop surat dinas kustom, dan master dasar hukum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
